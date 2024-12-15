@@ -6,7 +6,7 @@
 Here is my python source code. The following are the functions
 - Detect cards
 - Classify Cards as player or dealer cards
-- calculate the score for each hand.
+- Calculate the score for each hand.
 
 
 ## Output Videos
